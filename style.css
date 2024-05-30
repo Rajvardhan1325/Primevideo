@@ -1,0 +1,9 @@
+.home{
+    background-image:url(Kantara.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.left{
+    left:80%;
+}
